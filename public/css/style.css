@@ -61,6 +61,7 @@ body{
     width: 100% !important;
     object-fit: cover !important;
 }
+
 .card-body{
     padding: 0 !important;
 }
@@ -70,9 +71,14 @@ body{
 .listing-link{
     text-decoration: none;
 }
+
+.card-img-overlay {
+    transition: transform 0.3s ease;
+}
+
 .card-img-overlay:hover{
-    opacity: 0.2;
-    background-color: white;
+    /* opacity: 0.2;
+    background-color: white; */
 }
 
 /* New-Page */
@@ -177,3 +183,13 @@ body{
     }
   }
 
+
+  /* Default state for the listing image */
+.listing-card {
+    transition: transform 0.3s ease; /* Smooth scaling effect */
+}
+
+/* Hover state to make the image slightly bigger */
+.listing-card:hover{
+    transform: scale(1.05); /* Scales the image to 105% of its size */
+}
