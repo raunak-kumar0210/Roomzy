@@ -185,11 +185,11 @@ body{
 
 
   /* Default state for the listing image */
-.listing-card {
+.effect{
     transition: transform 0.3s ease; /* Smooth scaling effect */
 }
 
 /* Hover state to make the image slightly bigger */
-.listing-card:hover{
+.effect:hover{
     transform: scale(1.05); /* Scales the image to 105% of its size */
 }
