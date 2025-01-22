@@ -1,6 +1,6 @@
-# StaySphere
+# Roomzy
 
-StaySphere is a full-stack web application for booking and listing properties, inspired by platforms like Airbnb. It allows users to create, manage, and book listings with features such as user authentication, dynamic maps, and review management.
+Roomzy is a full-stack web application for booking and listing properties, inspired by platforms like Airbnb. It allows users to create, manage, and book listings with features such as user authentication, dynamic maps, and review management.
 
 ## Tech Stack
 - **Frontend:** EJS (Embedded JavaScript), Bootstrap 5
@@ -32,7 +32,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 ```bash
 git clone <repository-url>
-cd staysphere
+cd Roomzy
 ```
 
 ### Install Dependencies
