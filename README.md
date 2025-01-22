@@ -19,7 +19,7 @@ StaySphere is a full-stack web application for booking and listing properties, i
 - Responsive design with Bootstrap
 
 ## Live Demo
-- Check out the live application at https://staysphere-8epx.onrender.com/listings
+- Check out the live application at https://roomzy-q3ky.onrender.com/listings
 
 ## Installation
 
